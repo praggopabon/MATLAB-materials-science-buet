@@ -183,7 +183,7 @@ Tested on MATLAB R2024b. Toolboxes used across the set:
 - Partial Differential Equation Toolbox (problem 8, optional — a finite-difference fallback is provided)
 - Image Processing Toolbox (problem 9)
 
-Run any problem by opening its folder and running the script:
+Run any problem by opening its folder and running the script (assuming your MATLAB current folder is the repository root):
 
 ```matlab
 run('01-anisotropic-thermal-conductivity/mme_208_hw_1_2311002.m')
