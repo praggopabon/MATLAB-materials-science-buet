@@ -41,14 +41,14 @@ Most coursework repositories are a dump of `.m` files with no explanation. This 
 │   ├── README.md
 │   ├── mme_208_hw_4_2311002.m
 │   └── fig_convergence.png
-├── 05-mechanical-characterization/
+├── 05-mechanical-charecterization-&-optimal-property-design-AA2198/
 │   ├── README.md
 │   ├── mme_208_hw_5_2311002.m
 │   ├── fig0_raw_curves.png
 │   ├── fig1_bar_properties.png
 │   ├── fig2_loglog_pairs.png
 │   └── fig3_ideal_curves.png
-├── 06-imputing-missing-geochemical/
+├── 06-imputing-missing-geometrical-data-&-correlation/
 │   ├── README.md
 │   └── mme_208_hw_6_2311002.m
 ├── 07-kocks-mecking-dislocation-density/
@@ -56,14 +56,14 @@ Most coursework repositories are a dump of `.m` files with no explanation. This 
 │   ├── mme_208_hw_7_2311002.m
 │   ├── fig1_kocks_mecking.png
 │   └── fig2_temperature_dependence.png
-├── 08-temperature-field-in-a-laser-heated-rod/
+├── 08-temperature-field-in-a-laser-heated-cylindrical-rod/
 │   ├── README.md
 │   ├── mme_208_hw_8_2311002.m
 │   ├── fig1_shapeRatio_sweep.png
 │   ├── fig2_spotFrac_sweep.png
 │   ├── fig3_biotNum_sweep.png
 │   └── fig4_powNum_sweep.png
-└── 09-segmentation-and-compositional-mapping/
+└── 09-segmentation and compositional analysis of an EDS /
     ├── README.md
     ├── Assignment_ImageProcessing_...
     ├── ImageProcessingReport_23110...
