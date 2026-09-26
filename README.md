@@ -146,6 +146,26 @@ Axisymmetric steady-state heat conduction in a cylindrical rod, heated by a lase
 **Script:** `mme_208_hw_8_2311002.m`
 **Key figures:** `fig1_shapeRatio_sweep.png`, `fig2_spotFrac_sweep.png`, `fig3_biotNum_sweep.png`, `fig4_powNum_sweep.png`
 
+### 9. Segmentation and compositional analysis of an EDS elemental map
+
+[#9-segmentation-and-compositional-analysis-of-an-eds-elemental-map]
+
+Color-threshold a published EDS elemental map into five per-element binary masks
+(Ca, Si, Mg, Al, S), each tuned in whichever color space (HSV, L*a*b*, YCbCr)
+separates that color most cleanly. Convert pixel areas to mm² via a scale-bar
+calibration, report each element's fraction of the total classified area, and
+independently verify the masks by scattering each region's mean RGB color in
+3D space — five tight, separated clusters is direct evidence the thresholds
+are doing their job. The report explicitly documents every source of bias
+(unmasked annotations, no minimum region filter, overlapping color windows)
+rather than presenting the numbers as unqualified truth.
+
+**Folder:** [`09-segmentation-and-compositional-analysis-of-an-EDS/`](...)
+**Script:** `Assignment_ImageProcessing_2311002.m`
+**Report:** `ImageProcessingReport_2311002.pdf`
+**Key figure:** `fig8_rgb_clustering.png`
+
+
 ## A note on datasets and figures
 
 Some of these problems used instructor-provided datasets (the water chemistry table, the Al AA2198 stress–strain workbook, the raw three-material tensile data). Those files are **not** committed here without explicit permission. Where the raw input cannot be redistributed, the problem folder still contains the script, a description of the expected input schema, and the generated outputs, so the logic remains inspectable and reproducible from a substitute dataset.
