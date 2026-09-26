@@ -7,9 +7,9 @@ Problems from the course **Computer Applications to Materials Engineering**, sol
 These problems were assigned as take-home tasks in the undergraduate course **MME 208: Computer Applications to Materials Engineering**, Department of Materials and Metallurgical Engineering, Bangladesh University of Engineering and Technology (BUET).
 
 **Instructor:** Sumit Bhowmick, Lecturer, Department of Materials and Metallurgical Engineering, BUET.
-Profile: [https://www.buet.ac.bd/web/#/profile/sumitbhowmick](https://www.buet.ac.bd/web/#/profile/sumitbhowmick)
+Profile: [https://www.buet.ac.bd/web/#/profile/sumitbhowmick](https://www.buet.ac.bd/web/#/profile/sumitbhowmick) All rights of the problems are reserved to him.
 
-The solutions here are my own work unless otherwise noted. Where a problem statement, dataset, or figure was provided by the instructor, that material is credited in the corresponding problem folder and is not redistributed here without permission.
+The solutions here are my own work mostly, obviously took help of AI to solve the problems, unless otherwise noted. Where a problem statement, dataset or figure was provided by the instructor, that material is credited in the corresponding problem folder and is not redistributed here without permission.
 
 ## Purpose of this repository
 
