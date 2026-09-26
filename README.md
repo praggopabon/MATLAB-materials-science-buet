@@ -56,13 +56,28 @@ Most coursework repositories are a dump of `.m` files with no explanation. This 
 │   ├── mme_208_hw_7_2311002.m
 │   ├── fig1_kocks_mecking.png
 │   └── fig2_temperature_dependence.png
-└── 08-temperature-field-in-a-laser-heated-rod/
+├── 08-temperature-field-in-a-laser-heated-rod/
+│   ├── README.md
+│   ├── mme_208_hw_8_2311002.m
+│   ├── fig1_shapeRatio_sweep.png
+│   ├── fig2_spotFrac_sweep.png
+│   ├── fig3_biotNum_sweep.png
+│   └── fig4_powNum_sweep.png
+└── 09-segmentation-and-compositional-mapping/
     ├── README.md
-    ├── mme_208_hw_8_2311002.m
-    ├── fig1_shapeRatio_sweep.png
-    ├── fig2_spotFrac_sweep.png
-    ├── fig3_biotNum_sweep.png
-    └── fig4_powNum_sweep.png
+    ├── Assignment_ImageProcessing_...
+    ├── ImageProcessingReport_23110...
+    ├── CroppedEDS.jpg
+    ├── EDSvsAl.jpg
+    ├── EDSvsCa.jpg
+    ├── EDSvsMg.jpg
+    ├── EDSvsS.jpg
+    ├── redMask.m
+    ├── greenMask.m
+    ├── blueMask.m
+    ├── yellowMask.m
+    ├── alMask.m
+    └── coordinates.mat
 ```
 
 Each problem folder contains a `README.md` explaining the physics and a single MATLAB script named after the assignment (`mme_208_hw_N_2311002.m`). Generated figures live in the same folder as the script.
